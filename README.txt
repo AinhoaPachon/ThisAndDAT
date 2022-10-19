@@ -5,4 +5,4 @@ https://youtu.be/uvPIkp4_FVA
 
 Created by Ainhoa Pachon and David Rovira.
 
-Special thanks to Thais Hidalgo, who helped us a lot in the art design of the game.
+Special thanks to Thais Hidalgo, who helped us a lot in the art design of the game, and Xavier Durà, who guided us throughout the whole develompent with much patience.
